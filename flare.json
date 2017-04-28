@@ -27,10 +27,8 @@
   {
    "name": "Yhteiskunnalliset alat",
    "children": [
-    {"name": "Kasvatustiede", "size": 188},
-    {"name": "Luokanopettaja", "size": 242},
-    {"name": "Musiikinopettaja", "size": 20},
-    {"name": "Varhaiskasvatus", "size": 117}
+    {"name": "Viestintätieteet ja informaatiotutkimus", "size": 72},
+    {"name": "Yhteiskuntatieteet", "size": 61}
      ]
     },
   {
