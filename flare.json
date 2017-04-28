@@ -13,10 +13,15 @@
     {
    "name": "Humanistiset alat",
    "children": [
-    {"name": "Kasvatustiede", "size": 188},
-    {"name": "Luokanopettaja", "size": 242},
-    {"name": "Musiikinopettaja", "size": 20},
-    {"name": "Varhaiskasvatus", "size": 117}
+    {"name": "Arkeologia", "size": 16},
+    {"name": "Englannin kieli", "size": 96},
+    {"name": "Historia", "size": 102},
+    {"name": "Kirjallisuuden tutkimus", "size": 51},
+    {"name": "Puhetieteet", "size": 65},
+    {"name": "Ruotsin kieli", "size": 35},
+    {"name": "Saamen kieli", "size": 13},
+    {"name": "Saksan kieli", "size": 19},
+    {"name": "Suomen kieli", "size": 50}
      ]
     },
   {
